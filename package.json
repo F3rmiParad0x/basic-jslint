@@ -1,0 +1,18 @@
+{
+  "name": "jslint-setup",
+  "version": "1.0.0",
+  "description": "JS Lint setup",
+  "main": "TestLint.js",
+  "dependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^12.0.0"
+  },
+  "author": "Tom Nowicki",
+  "license": ""
+}
